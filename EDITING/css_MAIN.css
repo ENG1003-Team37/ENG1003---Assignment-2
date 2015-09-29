@@ -1,0 +1,24 @@
+#recordPageLink {
+	display:block;
+	height: 120px;
+	width:120px;
+	background: url(firefox-icon.png);
+
+}
+
+#recordSetLink {
+	display:block;
+	height:120px;
+	width:120px;
+	background:url(application-default-icon.png);
+}
+
+#recordViewLink{
+	display:block;
+	height:120px;
+	width:120px;
+	background:url(midori-globe-icon.png);
+	
+}
+
+
